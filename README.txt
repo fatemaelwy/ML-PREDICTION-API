@@ -1,6 +1,6 @@
 Request example:
 
-POST  -> /predict
+POST  -> /prediction
 Body: 
 
 [
